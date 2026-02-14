@@ -10,7 +10,7 @@ const messages = [
   "My next world must have you in it.",
   "You are annoying though.",
   "I hope we have better moments ahead.",
-  "I pray we fall in love more and more each day babe.",
+  "I pray we fall in love more and more each day Becca.",
   "Happy valentine Day, my love...,lovving you has been most beautiful things that has ever happened to me .You don't just make my days better you make my life lighter .Even with our imperfections, i still choose your smile, your voice, your energy, your heart. I may not always get everything right, but one thing i'm sure of is that i want you by my side. Today and always it's You.I dont just love You i value You, Forever is the goal, you stress me sometimes but i wouldn't trade you for anything. i'm lucky to call you mine...Yours lovingly Emenike",
   "I hope thinking about me makes you smile.",
   "Happy Valentine's Day, my love!",
